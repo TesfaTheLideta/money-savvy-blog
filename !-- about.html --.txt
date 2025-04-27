@@ -1,0 +1,29 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Money Savvy Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>About Me</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Hi! I'm passionate about helping people manage and save their money better. Here, I share practical tips you can use every day to improve your financial life!</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Money Savvy Blog</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!-- blog-post.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5 Easy Ways to Save Money</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>5 Easy Ways to Save Money This Month</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Saving money doesn't have to be hard. Here are 5 practical steps you can take today:</p>
+    <ul>
+      <li>Make a weekly budget.</li>
+      <li>Cancel unnecessary subscriptions.</li>
+      <li>Use cashback apps when shopping.</li>
+      <li>Cook meals at home.</li>
+      <li>Automate your savings into a separate account.</li>
+    </ul>
+    <p>Start small, stay consistent, and watch your savings grow!</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Money Savvy Blog</p>
+  </footer>
+
+</body>
+</html>
